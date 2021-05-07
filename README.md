@@ -54,5 +54,5 @@ I am planning on becoming more comfortable with utilizing rem units for my typog
 
 ## Acknowledgments
 
-A very big thanka to [Kevin Powell](https://www.youtube.com/user/KepowOb) for sharing this amazing resource. This is exactly what I needed to help practice and stay current with my front-end development skills. Super handy.
+A very big thanks to [Kevin Powell](https://www.youtube.com/user/KepowOb) for sharing this amazing resource. This is exactly what I needed to help practice and stay current with my front-end development skills. Super handy.
 
