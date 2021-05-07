@@ -24,12 +24,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./design/desktop-design-solution.png)
+![desktop design solution](./design/desktop-design-solution.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://ericsalvi.github.io/stats-preview-card-component/](https://ericsalvi.github.io/stats-preview-card-component/)
 
 ## My process
 
