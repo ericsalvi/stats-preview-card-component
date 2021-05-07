@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [frontendmentor.io](https://www.frontendmentor.io/solutions/stats-preview-card-component-using-flexbox-and-rem-units-OatNf5GDi)
 - Live Site URL: [https://ericsalvi.github.io/stats-preview-card-component/](https://ericsalvi.github.io/stats-preview-card-component/)
 
 ## My process
